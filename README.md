@@ -122,6 +122,11 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ![image](https://github.com/swedha333/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/35f142b3-4eb8-4087-ba8e-377087dffb8c)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/43f8eac6-5517-4cf3-8620-79582095665b)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/57732225-4ab4-4e9e-a7b7-1b429eddb327)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/7753e3e9-d090-4486-a90b-a7c7d9532223)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/9c66a802-d1dd-437c-bac0-a1e02a83de33)
+
 
 ### vii) HSV to RGB and BGR
 ```
@@ -141,6 +146,9 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ![image](https://github.com/swedha333/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/ef8d9613-6b0f-4b42-a013-3574d2a37b1f)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/3637dec2-7f50-4faf-b892-af16c8babc8d)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/8bdbfad4-af95-4eb1-8d0d-78c18b69fee8)
+
 
 ### viii) RGB and BGR to YCrCb
 ```
@@ -158,6 +166,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ![image](https://github.com/swedha333/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/28d91086-2591-4a0b-b41d-7e353e5447af)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/5f8aa41e-a9eb-446b-aecd-59be80bf1167)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/bb6eedd8-82aa-4101-b86a-e7016456f556)
 
 
 ### ix) Split and merge RGB Image
@@ -180,6 +190,9 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ![image](https://github.com/swedha333/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/1b6d0723-721b-427a-b955-b549c0936dfd)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/39cdbabe-875c-4481-8bf3-187f5f12fc43)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/01d30b7d-1f24-4b47-8a48-576753d75240)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/07b0516f-bb80-456e-870b-e01419ea2361)
 
 
 ### x) Split and merge HSV Image
@@ -202,6 +215,9 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ![image](https://github.com/swedha333/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/c4bcc5aa-7ded-4388-bd6f-4e768a5d2845)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/2624bc8d-a588-41e4-8a9f-a0ae82924fb8)
+![image](https://github.com/Harishspice/COLOR_CONVERSIONS_OF-IMAGE/assets/117935868/e961645a-5cb6-4a82-a848-ea1a7348369d)
+![Uploading image.png…]()
 
 
 
